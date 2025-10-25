@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="IOT_FE.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:IOT_FE"
+    xmlns:local_views="clr-namespace:IOT_FE.Views"
+    Title="IOT_FE"
+    Shell.TabBarBackgroundColor="White"
+    Shell.TabBarForegroundColor="#4B3CFA"
+    Shell.TabBarUnselectedColor="#999999"
+    Shell.TabBarTitleColor="#4B3CFA">
+
+    <!-- ✅ Thanh điều hướng dưới -->
+    <TabBar>
+        <!-- Trang chủ -->
+        <ShellContent
+            Title="Trang chủ"
+            Icon="home.png"
+            ContentTemplate="{DataTemplate local:MainPage}" />
+
+        <!-- Trang thống kê -->
+        <ShellContent
+            Title="Thống kê"
+            Icon="barchart.png"
+            ContentTemplate="{DataTemplate local_views:ThongKePage}" />
+    </TabBar>
+</Shell>

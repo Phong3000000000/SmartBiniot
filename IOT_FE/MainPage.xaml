@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IOT_FE.MainPage"
+             BackgroundColor="#F2F4F7"
+             Shell.NavBarIsVisible="False">
+
+    <Grid RowDefinitions="Auto,*">
+        <!-- ✅ Header -->
+        <VerticalStackLayout Padding="30,40,30,20" Spacing="10" BackgroundColor="#4B3CFA">
+
+            <HorizontalStackLayout>
+                <Frame 
+    WidthRequest="60"
+    HeightRequest="60"
+    CornerRadius="40"            
+                    Padding="0"
+    IsClippedToBounds="True"
+    HasShadow="False"
+    BorderColor="#ccc"
+    HorizontalOptions="Center">
+                    <Image 
+        Source="binsmarticon.png"
+        Aspect="AspectFill"     
+                        WidthRequest="80"
+        HeightRequest="80" />
+                </Frame>
+
+                <Label Text="Smart Bin Dashboard"
+             HorizontalOptions="Center"
+             FontSize="28"
+             FontAttributes="Bold"
+             TextColor="White"
+                       Margin="10,0,0,0"
+                       VerticalOptions="Center"/>
+            </HorizontalStackLayout>
+      
+        </VerticalStackLayout>
+
+        <!-- ✅ Content -->
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="20" Spacing="20">
+
+                <!-- 📊 Thông tin mức đầy -->
+                <Frame Padding="20" CornerRadius="20" BackgroundColor="White" HasShadow="True">
+                    <VerticalStackLayout Spacing="15" HorizontalOptions="Center">
+                        <Label Text="Mức đầy thùng rác"
+                               FontSize="24"
+                               FontAttributes="Bold"
+                               HorizontalOptions="Center"
+                               TextColor="#555"/>
+                        <Label x:Name="FillLevelLabel"
+                               Text="Đang tải..."
+                               FontSize="28"
+                               FontAttributes="Bold"
+                               HorizontalOptions="Center"
+                               TextColor="#333"/>
+
+                        <Border
+    x:Name="ProgressBarContainer"
+    HeightRequest="20"
+    StrokeThickness="0"
+    BackgroundColor="#E5E5E5"
+    StrokeShape="RoundRectangle 10">
+                            <Grid Padding="0">
+                                <BoxView x:Name="ProgressFillBox"
+                 HorizontalOptions="Start"
+                 VerticalOptions="Fill"
+                 BackgroundColor="Red"
+                 WidthRequest="0" />
+                            </Grid>
+                        </Border>
+
+                    </VerticalStackLayout>
+                </Frame>
+
+                <!-- 🤖 Auto Mode -->
+                <Frame Padding="15" CornerRadius="20" BackgroundColor="White" HasShadow="True">
+                    <HorizontalStackLayout Spacing="15">
+                        <Image x:Name="AutoModeIcon" 
+                               Source="robot.png" 
+                               WidthRequest="30" 
+                               HeightRequest="30"/>
+                        <Label x:Name="AutoModeLabel" 
+                               Text="Tự động mở nắp" 
+                               FontSize="20"
+                               VerticalOptions="Center"
+                               TextColor="#333"/>
+                        <Switch x:Name="AutoModeSwitch"
+                                Toggled="OnAutoModeToggled"
+                                HorizontalOptions="EndAndExpand"
+                                OnColor="#4CAF50"
+                                ThumbColor="White"/>
+                    </HorizontalStackLayout>
+                </Frame>
+
+                <!-- 🧍 Thủ công -->
+                <Frame Padding="15" CornerRadius="20" BackgroundColor="White" HasShadow="True">
+                    <HorizontalStackLayout Spacing="15">
+                        <Image x:Name="ManualOpenIcon" 
+                               Source="lid_closed.png" 
+                               WidthRequest="30" 
+                               HeightRequest="30"/>
+                        <Label x:Name="ManualOpenLabel" 
+                               Text="Mở nắp thủ công" 
+                               FontSize="20"
+                               VerticalOptions="Center"
+                               TextColor="#333"/>
+                        <Switch x:Name="ManualOpenSwitch"
+                                Toggled="OnManualOpenToggled"
+                                HorizontalOptions="EndAndExpand"
+                                OnColor="#4CAF50"
+                                ThumbColor="White"/>
+                    </HorizontalStackLayout>
+                </Frame>
+
+                <!-- 🔄 Nút làm mới -->
+                <Button FontAttributes="Bold"
+                        Text="Làm mới dữ liệu"
+                        Clicked="OnRefreshClicked"
+                        FontSize="20"
+                        CornerRadius="12"
+                        HeightRequest="50"
+                        BackgroundColor="#4B3CFA"
+                        TextColor="White"/>
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

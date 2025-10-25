@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IOT_FE.Views.Shared.TopNotificationView"
+             x:Name="NotificationView"
+             IsVisible="False"
+             TranslationY="-120"
+             ZIndex="10000"
+             VerticalOptions="Start"
+             HorizontalOptions="Fill">
+
+    <Frame BackgroundColor="White"
+           CornerRadius="12"
+           Padding="15"
+           Margin="10,10,10,0"
+           HasShadow="True"
+           BorderColor="#E0E0E0"
+           VerticalOptions="Start"
+           HorizontalOptions="Fill">
+
+        <Grid ColumnDefinitions="Auto,*" 
+              ColumnSpacing="10">
+
+            <!-- Icon/Image -->
+            <Frame Grid.Column="0"
+                   BackgroundColor="#2E3B4E"
+                   CornerRadius="20"
+                   WidthRequest="40"
+                   HeightRequest="40"
+                   Padding="0"
+                   HasShadow="False">
+                <Image Source="binsmart.png"
+                       WidthRequest="40"
+                       HeightRequest="40"
+                       Aspect="AspectFit"/>
+            </Frame>
+
+            <!-- Content -->
+            <StackLayout Grid.Column="1" 
+                         Spacing="3"
+                         VerticalOptions="Center">
+                <Label x:Name="TitleLabel"
+                       Text="BÁOMỚI"
+                       FontSize="14"
+                       FontAttributes="Bold"
+                       TextColor="#2E3B4E"/>
+                <Label x:Name="BodyLabel"
+                       Text="Notification content here"
+                       FontSize="13"
+                       TextColor="#666666"
+                       LineBreakMode="TailTruncation"
+                       MaxLines="2"/>
+            </StackLayout>
+
+        </Grid>
+
+        <!-- Gestures cho notification -->
+        <Frame.GestureRecognizers>
+            <TapGestureRecognizer Tapped="OnNotificationTapped"/>
+            <SwipeGestureRecognizer Direction="Up" Swiped="OnSwipeUp"/>
+        </Frame.GestureRecognizers>
+
+    </Frame>
+</ContentView>

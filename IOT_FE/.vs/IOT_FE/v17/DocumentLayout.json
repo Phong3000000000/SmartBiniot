@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\views\\thongkepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:views\\thongkepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\views\\thongkepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:views\\thongkepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\services\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:services\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\services\\api\\ibinapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:services\\api\\ibinapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\model\\binstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:model\\binstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\iot_fe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:iot_fe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\model\\signalrnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:model\\signalrnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\services\\devicenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:services\\devicenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\model\\fcmtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:model\\fcmtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\views\\shared\\topnotificationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:views\\shared\\topnotificationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\model\\devicestatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:model\\devicestatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\views\\shared\\topnotificationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:views\\shared\\topnotificationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\helpers\\servicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:helpers\\servicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_fe\\platforms\\android\\resources\\values\\strings.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{1D330BFF-C625-468C-86FD-B2D91A1EC05F}|IOT_FE.csproj|solutionrelative:platforms\\android\\resources\\values\\strings.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKePage.xaml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\ThongKePage.xaml",
+              "RelativeDocumentMoniker": "Views\\ThongKePage.xaml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\ThongKePage.xaml",
+              "RelativeToolTip": "Views\\ThongKePage.xaml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-09T08:32:00.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongKePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\ThongKePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ThongKePage.xaml.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\ThongKePage.xaml.cs",
+              "RelativeToolTip": "Views\\ThongKePage.xaml.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswOMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:32:18.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalRService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Services\\SignalRService.cs",
+              "RelativeDocumentMoniker": "Services\\SignalRService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Services\\SignalRService.cs",
+              "RelativeToolTip": "Services\\SignalRService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:36:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:35:42.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinStatus.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\BinStatus.cs",
+              "RelativeDocumentMoniker": "Model\\BinStatus.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\BinStatus.cs",
+              "RelativeToolTip": "Model\\BinStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:39:49.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAFUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-04T06:12:54.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:38:34.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOT_FE.csproj",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\IOT_FE.csproj",
+              "RelativeDocumentMoniker": "IOT_FE.csproj",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\IOT_FE.csproj",
+              "RelativeToolTip": "IOT_FE.csproj",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T05:56:25.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBinApi.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Services\\Api\\IBinApi.cs",
+              "RelativeDocumentMoniker": "Services\\Api\\IBinApi.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Services\\Api\\IBinApi.cs",
+              "RelativeToolTip": "Services\\Api\\IBinApi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:35:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:29:29.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:45:27.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignalRNotification.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\SignalRNotification.cs",
+              "RelativeDocumentMoniker": "Model\\SignalRNotification.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\SignalRNotification.cs",
+              "RelativeToolTip": "Model\\SignalRNotification.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:39:17.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeviceNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Services\\DeviceNotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\DeviceNotificationService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Services\\DeviceNotificationService.cs",
+              "RelativeToolTip": "Services\\DeviceNotificationService.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAiwHABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:36:26.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FcmToken.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\FcmToken.cs",
+              "RelativeDocumentMoniker": "Model\\FcmToken.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\FcmToken.cs",
+              "RelativeToolTip": "Model\\FcmToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:27:50.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-09T08:39:40.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T18:19:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwLcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:03:04.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-09T06:56:11.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:17:10.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TopNotificationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\Shared\\TopNotificationView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Shared\\TopNotificationView.xaml.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\Shared\\TopNotificationView.xaml.cs",
+              "RelativeToolTip": "Views\\Shared\\TopNotificationView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:01:24.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeviceStatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\DeviceStatusModel.cs",
+              "RelativeDocumentMoniker": "Model\\DeviceStatusModel.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Model\\DeviceStatusModel.cs",
+              "RelativeToolTip": "Model\\DeviceStatusModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:43:57.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TopNotificationView.xaml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\Shared\\TopNotificationView.xaml",
+              "RelativeDocumentMoniker": "Views\\Shared\\TopNotificationView.xaml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Views\\Shared\\TopNotificationView.xaml",
+              "RelativeToolTip": "Views\\Shared\\TopNotificationView.xaml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T14:00:46.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Helpers\\ServiceHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ServiceHelper.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Helpers\\ServiceHelper.cs",
+              "RelativeToolTip": "Helpers\\ServiceHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:15:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "strings.xml",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\Resources\\values\\strings.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\values\\strings.xml",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_FE\\Platforms\\Android\\Resources\\values\\strings.xml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\values\\strings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-07T06:08:58.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

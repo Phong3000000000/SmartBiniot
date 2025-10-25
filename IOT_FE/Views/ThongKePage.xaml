@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:microcharts="clr-namespace:Microcharts.Maui;assembly=Microcharts.Maui"
+             x:Class="IOT_FE.Views.ThongKePage"
+             Title="Thống kê"
+             BackgroundColor="#F5F5F5">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="Thống kê hoạt động thùng rác"
+                   FontSize="23"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"/>
+
+            <!-- Mức đầy trung bình -->
+            <Frame BackgroundColor="White" CornerRadius="12" HasShadow="True" Padding="15">
+                <VerticalStackLayout>
+                    <Label Text="Mức đầy trung bình" FontSize="18" TextColor="#333"/>
+                    <Label x:Name="AverageFillLabel"
+                           Text="Đang tải..."
+                           FontSize="22"
+                           FontAttributes="Bold"
+                           TextColor="#4B3CFA"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Số lần vượt mức 80% -->
+            <Frame BackgroundColor="White" CornerRadius="12" HasShadow="True" Padding="15">
+                <VerticalStackLayout>
+                    <Label Text="Số lần vượt mức 80%" FontSize="18" TextColor="#333"/>
+                    <Label x:Name="Over80Label"
+                           Text="Đang tải..."
+                           FontSize="22"
+                           FontAttributes="Bold"
+                           TextColor="#E53935"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Số lần mở nắp -->
+            <Frame BackgroundColor="White" CornerRadius="12" HasShadow="True" Padding="15">
+                <VerticalStackLayout>
+                    <Label Text="Số lần mở nắp hôm nay" FontSize="18" TextColor="#333"/>
+                    <Label x:Name="OpenCountLabel"
+                           Text="Đang tải..."
+                           FontSize="22"
+                           FontAttributes="Bold"
+                           TextColor="#4B3CFA"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Biểu đồ thống kê thùng rác"
+                   FontSize="23"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <!-- Biểu đồ mức đầy trung bình -->
+            <Frame BackgroundColor="White" Padding="10" CornerRadius="10">
+                <VerticalStackLayout>
+                    <Label Text="Mức đầy trung bình" FontSize="18" FontAttributes="Bold" />
+                    <microcharts:ChartView x:Name="AvgFillChart" HeightRequest="200" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Biểu đồ số lần mở nắp -->
+            <Frame BackgroundColor="White" Padding="10" CornerRadius="10">
+                <VerticalStackLayout>
+                    <Label Text="Số lần mở nắp" FontSize="18" FontAttributes="Bold" />
+                    <microcharts:ChartView x:Name="OpenChart" HeightRequest="200" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Biểu đồ số lần vượt 80% -->
+            <Frame BackgroundColor="White" Padding="10" CornerRadius="10">
+                <VerticalStackLayout>
+                    <Label Text="Số lần vượt mức 80%" FontSize="18" FontAttributes="Bold" />
+                    <microcharts:ChartView x:Name="Over80Chart" HeightRequest="200" />
+                </VerticalStackLayout>
+            </Frame>
+            <Button FontSize="20" Text="Làm mới Biểu đồ" Clicked="RefreshButton_Clicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

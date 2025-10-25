@@ -1,0 +1,6 @@
+@IOT_BE_HostAddress = http://localhost:5074
+
+GET {{IOT_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
