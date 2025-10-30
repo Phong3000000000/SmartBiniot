@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\controllers\\smartbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:controllers\\smartbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\controllers\\devicestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,13 +138,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SmartBinController.cs",
               "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\SmartBinController.cs",
               "RelativeDocumentMoniker": "Controllers\\SmartBinController.cs",
               "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\SmartBinController.cs",
               "RelativeToolTip": "Controllers\\SmartBinController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAOsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T14:34:56.41Z",
               "EditorCaption": ""
@@ -175,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PublicNotificationHub.cs",
               "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Hubs\\PublicNotificationHub.cs",
               "RelativeDocumentMoniker": "Hubs\\PublicNotificationHub.cs",

@@ -1,90 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\",
+  "WorkspaceRootPath": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\controllers\\smartbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\controllers\\smartbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:controllers\\smartbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:hubs\\publicnotificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\controllers\\devicestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\controllers\\devicestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:controllers\\devicestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\model\\bindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\model\\bindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:model\\bindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\model\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\model\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:model\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\model\\fcmtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\model\\fcmtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:model\\fcmtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\iot_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\iot_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:iot_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\controllers\\fcmtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\controllers\\fcmtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:controllers\\fcmtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\iot_be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\iot_be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:iot_be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\iot_bedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\iot_bedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\iot_bedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\firebasemessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\firebasemessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\firebasemessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\devicestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\devicestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\devicestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\ifirebasemessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\ifirebasemessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\ifirebasemessagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\services\\idevicestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\services\\idevicestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:services\\idevicestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\iot_be\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|c:\\users\\phong\\downloads\\iot_smartbin\\git\\iot_be\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7EFEB5-BBC8-41D7-9567-51D7D9FE5F45}|IOT_BE.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -104,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BinData.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Model\\BinData.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Model\\BinData.cs",
               "RelativeDocumentMoniker": "Model\\BinData.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Model\\BinData.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Model\\BinData.cs",
               "RelativeToolTip": "Model\\BinData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,9 +115,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DeviceStatus.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Model\\DeviceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Model\\DeviceStatus.cs",
               "RelativeDocumentMoniker": "Model\\DeviceStatus.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Model\\DeviceStatus.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Model\\DeviceStatus.cs",
               "RelativeToolTip": "Model\\DeviceStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FcmToken.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Model\\FcmToken.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Model\\FcmToken.cs",
               "RelativeDocumentMoniker": "Model\\FcmToken.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Model\\FcmToken.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Model\\FcmToken.cs",
               "RelativeToolTip": "Model\\FcmToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +139,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SmartBinController.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\SmartBinController.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Controllers\\SmartBinController.cs",
               "RelativeDocumentMoniker": "Controllers\\SmartBinController.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\SmartBinController.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Controllers\\SmartBinController.cs",
               "RelativeToolTip": "Controllers\\SmartBinController.cs",
-              "ViewState": "AgIAAOgAAAAAAAAAAAAAAOsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T14:34:56.41Z",
               "EditorCaption": ""
@@ -153,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DeviceStatusController.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\DeviceStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Controllers\\DeviceStatusController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeviceStatusController.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\DeviceStatusController.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Controllers\\DeviceStatusController.cs",
               "RelativeToolTip": "Controllers\\DeviceStatusController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAUwFwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,9 +164,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Program.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,22 +176,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PublicNotificationHub.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Hubs\\PublicNotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Hubs\\PublicNotificationHub.cs",
               "RelativeDocumentMoniker": "Hubs\\PublicNotificationHub.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Hubs\\PublicNotificationHub.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Hubs\\PublicNotificationHub.cs",
               "RelativeToolTip": "Hubs\\PublicNotificationHub.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:32:31.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:32:31.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IOT_BE.csproj",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\IOT_BE.csproj",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\IOT_BE.csproj",
               "RelativeDocumentMoniker": "IOT_BE.csproj",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\IOT_BE.csproj",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\IOT_BE.csproj",
               "RelativeToolTip": "IOT_BE.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -202,9 +200,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FcmTokenController.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\FcmTokenController.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Controllers\\FcmTokenController.cs",
               "RelativeDocumentMoniker": "Controllers\\FcmTokenController.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Controllers\\FcmTokenController.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Controllers\\FcmTokenController.cs",
               "RelativeToolTip": "Controllers\\FcmTokenController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwBMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,9 +212,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\appsettings.json",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -226,9 +224,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -238,9 +236,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IOT_BE.http",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\IOT_BE.http",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\IOT_BE.http",
               "RelativeDocumentMoniker": "IOT_BE.http",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\IOT_BE.http",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\IOT_BE.http",
               "RelativeToolTip": "IOT_BE.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -248,12 +246,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
               "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
-              "RelativeDocumentMoniker": "plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
+              "RelativeDocumentMoniker": "..\\..\\IOT_BE\\plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
               "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
-              "RelativeToolTip": "plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
+              "RelativeToolTip": "..\\..\\IOT_BE\\plexiform-muse-461800-t5-firebase-adminsdk-fbsvc-3a1bd94d1f.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-04T04:03:40.123Z"
@@ -262,9 +260,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IOT_BEDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\IOT_BEDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\IOT_BEDbContext.cs",
               "RelativeDocumentMoniker": "Services\\IOT_BEDbContext.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\IOT_BEDbContext.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\IOT_BEDbContext.cs",
               "RelativeToolTip": "Services\\IOT_BEDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,11 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "FirebaseMessagingService.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\FirebaseMessagingService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\FirebaseMessagingService.cs",
               "RelativeDocumentMoniker": "Services\\FirebaseMessagingService.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\FirebaseMessagingService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\FirebaseMessagingService.cs",
               "RelativeToolTip": "Services\\FirebaseMessagingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,11 +282,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "NotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "Services\\NotificationService.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\NotificationService.cs",
               "RelativeToolTip": "Services\\NotificationService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "DeviceStatusService.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\DeviceStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\DeviceStatusService.cs",
               "RelativeDocumentMoniker": "Services\\DeviceStatusService.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\DeviceStatusService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\DeviceStatusService.cs",
               "RelativeToolTip": "Services\\DeviceStatusService.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAAqwHEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,11 +306,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\INotificationService.cs",
               "RelativeDocumentMoniker": "Services\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\INotificationService.cs",
               "RelativeToolTip": "Services\\INotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,11 +318,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "IFirebaseMessagingService.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\IFirebaseMessagingService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\IFirebaseMessagingService.cs",
               "RelativeDocumentMoniker": "Services\\IFirebaseMessagingService.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\IFirebaseMessagingService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\IFirebaseMessagingService.cs",
               "RelativeToolTip": "Services\\IFirebaseMessagingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "IDeviceStatusService.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\IDeviceStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\IDeviceStatusService.cs",
               "RelativeDocumentMoniker": "Services\\IDeviceStatusService.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\Services\\IDeviceStatusService.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\Services\\IDeviceStatusService.cs",
               "RelativeToolTip": "Services\\IDeviceStatusService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\IOT_BE\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PHONG\\Downloads\\IOT_SMARTBIN\\GIT\\IOT_BE\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

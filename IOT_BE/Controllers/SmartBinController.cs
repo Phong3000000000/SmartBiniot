@@ -21,6 +21,12 @@ namespace IOT_BE.Controllers
         // Thêm biến static để lưu trạng thái mở nắp tự động
         private static bool _autoOpenEnabled = true;
 
+        // Thêm biến static để lưu trạng thái mở nắp thủ công
+        private static bool _manualOpenRequested = false;
+
+        // THÊM BIẾN STATIC ĐỂ CHỐNG SPAM THÔNG BÁO ĐẦY (>80%)
+        private static bool _isFullAlertSent = false;
+
         private readonly IFirebaseMessagingService _firebaseService;
         private readonly INotificationService _notificationService;
         private readonly IHubContext<PublicNotificationHub> _hubContext;
@@ -41,9 +47,6 @@ namespace IOT_BE.Controllers
             _deviceStatusService = deviceStatusService;
             _context = context;
         }
-
-        // Thêm biến static để lưu trạng thái mở nắp thủ công
-        private static bool _manualOpenRequested = false;
 
         // API để điều khiển mở/đóng thủ công từ app
         [HttpPost("manual-open")]
@@ -80,12 +83,12 @@ namespace IOT_BE.Controllers
             Console.WriteLine($"Nhận dữ liệu từ ESP32: {_currentFillLevel}% đầy");
 
 
-            // 🟢 Lưu dữ liệu vào database
+            // Lưu dữ liệu vào database
             data.Timestamp = DateTime.Now;
             await _context.BinData.AddAsync(data);
             await _context.SaveChangesAsync();
 
-            // 🔸 1. Gửi tín hiệu realtime xuống tất cả client MAUI
+            // 1. Gửi tín hiệu realtime xuống tất cả client MAUI
             var signalData = new
             {
                 title = "Cập nhật mức đầy",
@@ -96,12 +99,23 @@ namespace IOT_BE.Controllers
 
             await _hubContext.Clients.All.SendAsync("ReceiveRealTimeNotification", signalData);
 
-            // 🔸 2. Gửi Firebase nếu đầy > 80%
+            // 2. Gửi Firebase nếu đầy > 80% (LOGIC CHỐNG SPAM)
             if (_currentFillLevel >= 80)
             {
-                await _notificationService.SendBinFullNotificationAsync(
-                    new BinData { FillLevel = _currentFillLevel }
-                );
+                // Chỉ gửi thông báo nếu CHƯA có cảnh báo nào được gửi
+                if (!_isFullAlertSent)
+                {
+                    await _notificationService.SendBinFullNotificationAsync(
+                        new BinData { FillLevel = _currentFillLevel }
+                    );
+                    _isFullAlertSent = true; // Đánh dấu là đã gửi cảnh báo
+                    Console.WriteLine(">>> CẢNH BÁO: ĐÃ GỬI THÔNG BÁO ĐẦY LẦN ĐẦU");
+                }
+            }
+            else
+            {
+                // Nếu mức đầy dưới 80%, reset cờ cảnh báo, sẵn sàng cho lần đầy tiếp theo
+                _isFullAlertSent = false;
             }
 
             return Ok(new { message = "Đã nhận thành công", level = _currentFillLevel });
@@ -151,7 +165,7 @@ namespace IOT_BE.Controllers
             if (!dataToday.Any())
                 return Ok(new { AverageFillLevel = 0, OpenCountToday = 0, Over80Count = 0 });
 
-            // 🛠️ SỬA LỖI ĐẾM SỐ LẦN MỞ NẮP (Chỉ đếm sự kiện chuyển trạng thái Đóng -> Mở)
+            //  SỬA LỖI ĐẾM SỐ LẦN MỞ NẮP (Chỉ đếm sự kiện chuyển trạng thái Đóng -> Mở)
             int openCount = 0;
             bool wasOpenedPreviously = false;
 
@@ -167,7 +181,7 @@ namespace IOT_BE.Controllers
             }
 
 
-            // 🧮 Lọc giá trị trùng (chỉ lấy khi FillLevel thay đổi >= 0.5%)
+            //  Lọc giá trị trùng (chỉ lấy khi FillLevel thay đổi >= 0.5%)
             var uniqueValues = new List<float>();
             float? last = null;
             foreach (var item in dataToday)
@@ -182,7 +196,7 @@ namespace IOT_BE.Controllers
             // Trung bình của giá trị không trùng
             float average = uniqueValues.Count > 0 ? uniqueValues.Average() : 0;
 
-            // 🧨 Đếm số lần vượt mức 80% (chỉ tính khi vượt từ <80 → >=80 để tránh đếm trùng)
+            // Đếm số lần vượt mức 80% (chỉ tính khi vượt từ <80 → >=80 để tránh đếm trùng)
             int over80Count = 0;
             float prev = 0;
             foreach (var item in dataToday)
@@ -207,7 +221,7 @@ namespace IOT_BE.Controllers
             DateTime now = DateTime.Now;
             DateTime startDate;
 
-            // 📆 Xác định phạm vi
+            // Xác định phạm vi
             if (range == "month")
                 startDate = new DateTime(now.Year, now.Month, 1);
             else if (range == "year")
@@ -215,7 +229,7 @@ namespace IOT_BE.Controllers
             else
                 startDate = now.AddDays(-7); // mặc định: tuần
 
-            // 📊 Lọc dữ liệu
+            // Lọc dữ liệu
             var data = _context.BinData
                 .Where(x => x.Timestamp >= startDate)
                 .ToList();
@@ -237,7 +251,7 @@ namespace IOT_BE.Controllers
             {
                 var list = g.OrderBy(x => x.Timestamp).ToList();
 
-                // 🛠️ SỬA LỖI ĐẾM SỐ LẦN MỞ NẮP TRONG BIỂU ĐỒ (Chỉ đếm sự kiện chuyển trạng thái Đóng -> Mở)
+                //  SỬA LỖI ĐẾM SỐ LẦN MỞ NẮP TRONG BIỂU ĐỒ (Chỉ đếm sự kiện chuyển trạng thái Đóng -> Mở)
                 int openCount = 0;
                 bool wasOpen = false;
                 foreach (var i in list)
